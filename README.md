@@ -1,2 +1,0 @@
-# Exercicios-Trybe
-Meus exercícios 
